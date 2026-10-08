@@ -3,6 +3,7 @@ let state=create();const el=id=>document.getElementById(id);
 const labels={calm:'Calm water',storm:'Storm warning',tailwind:'Tailwind · +3 coins per unloading'};
 function act(action){try{state=transition(state,action);render();el('notice').textContent=state.log[0];}catch(error){el('notice').textContent=error.message;}}
 function render(){
+ document.querySelector('.map').dataset.weather=weather(state.seed,state.tide);
  const settings=scenario(state.seed);el('scenario-label').textContent=`${settings.label} · seed ${state.seed}`;
  el('contract').textContent=`Finish the twelfth tide with ${settings.goalDeliveries} deliveries and ${settings.goalCoins} harbor coins. Keep an upkeep reserve and choose between protection, repairs and fuel.`;
  for(const k of ['coins','timber','fuel','reputation','integrity'])el(k).textContent=state[k];

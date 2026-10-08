@@ -1,0 +1,7 @@
+# Original harbor illustration
+
+`harbor-dusk.png` was generated with the built-in OpenAI image generation tool on 2026-10-08, copied into this project and integrated into the header and playable harbor scenery. No paid image API or third-party asset pack was used. This artwork is decorative; all controls remain semantic HTML with readable text.
+
+Final prompt: Create a premium original game environment illustration for Lantern Harbor, a cozy strategic harbor simulation. Wide landscape composition, painterly detailed isometric coastal fishing village at blue hour, warm amber lanterns reflected in deep teal water, elegant weathered wooden quays, small fishing boats and a modest freight barge, distant misty cliffs, lighthouse, maritime charm, rich tactile materials and atmospheric light, sophisticated indie game art direction rather than generic clipart. Upper and right areas show the beautiful village; lower half is predominantly open dark teal water with gentle reflections, allowing game interface overlay. No words, no lettering, no numbers, no logos, no UI panels, no mockup, no frame. This is a reusable in-game scenic background asset, not a screenshot. Original architecture and boats, no recognizable copyrighted characters. Horizontal panoramic composition.
+
+The harbor is fictional. Image generation and its integration do not constitute a contest submission or a paid commission.

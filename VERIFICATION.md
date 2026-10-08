@@ -19,3 +19,9 @@ The build is semantic DOM/CSS with ES modules, not WebGL. Jam compatibility unde
 ## Public publication verified
 
 Source commit d6aa224ca3022a5f7dd1e61b2f80dbdc0abca84a. GitHub Pages run37730531215 completed successfully; actual public URL https://prosgames45-del.github.io/lantern-harbor/ loaded the three-scenario interface. Public deployment is separate from contest entry; nothing submitted to the jam.
+
+## Original generated scenery — 2026-10-08
+
+Generated a 2332681-byte panoramic harbor image with the built-in OpenAI image tool; copied the selected PNG into harbor-dusk.png and documented its exact prompt in ARTWORK.md. The header and playable harbor consume it locally. Storm scenes use a darker overlay; reduced-motion settings disable the transition. Buttons remain opaque semantic controls.
+
+Repeated model checks: all14 pass; ui.mjs syntax passes. Local browser construction20→13coins and skiff unloading13→21coins, fuel3→2, deliveries0→1 were observed after the visual change. The requested390px browser viewport override did not apply: actual DOM width1280px was measured. Do not claim a successful phone-size browser test from this attempt. CSS mobile changes require a real narrower browser check.

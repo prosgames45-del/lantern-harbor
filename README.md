@@ -14,7 +14,7 @@ Source: https://github.com/prosgames45-del/lantern-harbor
 
 From this folder, run `python serve.py`, then open http://127.0.0.1:8810. The server listens only on loopback. Stop it with Ctrl+C. On Windows, `.mjs` is explicitly served as JavaScript.
 
-Run the model tests with `node --test test-model.mjs` (Node 18+). Browser controls use semantic buttons and text, support keyboard focus and touch, and announce action results. The map is CSS and HTML; there is no opaque canvas. No external fonts, image downloads or libraries are used.
+Run the model tests with `node --test test-model.mjs` (Node 18+). Browser controls use semantic buttons and text, support keyboard focus and touch, and announce action results. The map is CSS and HTML; there is no opaque canvas. An original generated harbor illustration is bundled locally in harbor-dusk.png; no runtime image download, external fonts or libraries are used.
 
 ## Local preparation for Game Gauntlet SIM Jam
 
@@ -26,7 +26,7 @@ Personal registration, Discord participation, signature, legal attestations and 
 
 ## AI disclosure and authorship
 
-**Fully AI-generated:** all code, game design, interface, procedural visuals, documentation and submission copy in this prototype were generated with OpenAI Codex. Jordan is the prospective entrant; this document does not claim human coding, human playtesting, lived maritime experience or completed legal attestation. No third-party artwork, music or asset packs are included.
+**Fully AI-generated:** all code, game design, interface, original generated harbor illustration, procedural visuals, documentation and submission copy in this prototype were generated with OpenAI Codex. Jordan is the prospective entrant; this document does not claim human coding, human playtesting, lived maritime experience or completed legal attestation. No third-party artwork, music or asset packs are included.
 
 ## Scope and limitations
 
