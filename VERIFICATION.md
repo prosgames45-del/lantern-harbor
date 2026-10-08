@@ -15,3 +15,7 @@ Implementation began at 00:24:07 UTC. The playable prototype, model tests, serve
 The first builder could not access a browser. The main agent subsequently opened the real local browser build, selected the quay, built it, unloaded a skiff and observed coins changing 20→13→21, fuel 3→2, deliveries 0→1. This is automated browser verification, not a human playtest. An authentic screenshot is included as demo.png. Mobile rendering and assistive-technology behavior still require further testing.
 
 The build is semantic DOM/CSS with ES modules, not WebGL. Jam compatibility under the browser/WebGL wording remains unconfirmed. Personal registration, Discord activity, signed attestations, five human ratings on November 5–10 and any live-event duties remain pending Jordan's review. No external submission or account creation occurred.
+
+## Public publication verified
+
+Source commit d6aa224ca3022a5f7dd1e61b2f80dbdc0abca84a. GitHub Pages run37730531215 completed successfully; actual public URL https://prosgames45-del.github.io/lantern-harbor/ loaded the three-scenario interface. Public deployment is separate from contest entry; nothing submitted to the jam.

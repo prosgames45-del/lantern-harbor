@@ -4,6 +4,12 @@ An original browser simulation about maintaining a small coastal port through tw
 
 This is a **local preparation prototype**, not a submitted jam entry, accepted project or paid work. Every coin displayed in the game is fictional. No real money, keys, payments, external assets, paid APIs, accounts or installation are required.
 
+## Play
+
+Public demo: https://prosgames45-del.github.io/lantern-harbor/
+
+Source: https://github.com/prosgames45-del/lantern-harbor
+
 ## Play locally
 
 From this folder, run `python serve.py`, then open http://127.0.0.1:8810. The server listens only on loopback. Stop it with Ctrl+C. On Windows, `.mjs` is explicitly served as JavaScript.
@@ -16,7 +22,7 @@ Official listing: https://itch.io/jam/game-gauntlet-sim-jam. The listing states 
 
 The build format is **HTML, CSS and JavaScript ES modules**, rendered with semantic DOM elements. It does not use WebGL. The jam's browser/WebGL wording requires confirmation that this exact format is admissible; do not describe it as a WebGL build. Free entry is stated in the official organizer update: https://itch.io/t/7000961/new-judges-joining-the-game-gauntlet-sim-jam.
 
-Personal registration, Discord participation, signature, legal attestations and final eligibility remain **pending Jordan's own review and actions**. The required human ratings of five entries on November 5–10, and any November 14 live event obligations, need Jordan's review and personal participation. Nothing was submitted or registered, no account was created, and no personal facts were fabricated. Recheck the current official rules and required declarations before submitting. `SUBMISSION.md` is a draft with missing public links clearly identified.
+Personal registration, Discord participation, signature, legal attestations and final eligibility remain **pending Jordan's own review and actions**. The required human ratings of five entries on November 5–10, and any November 14 live event obligations, need Jordan's review and personal participation. Nothing was submitted or registered, no account was created, and no personal facts were fabricated. Recheck the current official rules and required declarations before submitting. `SUBMISSION.md` is a draft with actual public links and personal entry requirements still pending.
 
 ## AI disclosure and authorship
 

@@ -5,8 +5,8 @@
 **Jam:** Game Gauntlet SIM Jam  
 **Platform:** Browser, desktop and mobile, semantic DOM/CSS with JavaScript ES modules; no WebGL  
 **Jam format compatibility:** PENDING — organizer confirmation needed for DOM browser build under browser/WebGL wording  
-**Public playable build:** TO COMPLETE — no public build has been published  
-**Source repository:** TO COMPLETE — no public repository has been created  
+**Public playable build:** https://prosgames45-del.github.io/lantern-harbor/ — browser verified  
+**Source repository:** https://github.com/prosgames45-del/lantern-harbor  
 **Required personal registration / Discord / signed attestations:** PENDING — Jordan must review and complete these personally
 
 ## Description
